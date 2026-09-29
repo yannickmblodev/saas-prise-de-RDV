@@ -1,0 +1,6 @@
+{
+  "name": "coup-de-coeur/rdv",
+  "description": "Prototype SaaS de prise de rendez-vous romantique",
+  "type": "project",
+  "require": {"php": ">=8.2"}
+}
